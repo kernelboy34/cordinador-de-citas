@@ -1,2 +1,2 @@
 # cordinador-de-citas
-<img src="vb.png"/>
+<img src="https://raw.githubusercontent.com/kernelboy34/cordinador-de-citas/main-ker/vb.PNG"/>
